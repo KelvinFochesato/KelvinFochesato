@@ -1,7 +1,7 @@
 ## Ola
 
 - 🔭 Estudante 👌
-- 🌱 Estudando HTML, CSS, JavaScript, React, Typescript
+- 🌱 Estudando Desenvolvimento Web
 - 📫 Contate-me no email: kelvinkissler1@gmail.com
 
 <div style="display: inline_block"><br>
