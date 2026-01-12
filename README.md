@@ -2,7 +2,7 @@
 
 - 🔭 Estudante 👌
 - 🌱 Estudando Desenvolvimento Web
-- 📫 Contate-me no email: kelvinkissler1@gmail.com
+- 📫 Contate-me no email: kelvinfochesato.me@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
